@@ -5,7 +5,7 @@ if 1 then
 end
 
 if 2 then
-  outputKikc = "test 2"
+  outputKick = "test 2"
 end
 
 game.Players.LocalPlayer:Kick(outputKick)
