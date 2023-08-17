@@ -1,0 +1,11 @@
+local outputKick
+print(math.random(1,2))
+if 1 then 
+   outputKick = "test 1"
+end
+
+if 2 then
+  outputKikc = "test 2"
+end
+
+game.Players.LocalPlayer:Kick(outputKick)
